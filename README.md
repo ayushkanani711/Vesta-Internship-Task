@@ -2,7 +2,7 @@
 
 ## Deployment
 
-The project is deployed at :
+The project is deployed at : https://vesta-internship-task.vercel.app/
 
 ## Installation
 
