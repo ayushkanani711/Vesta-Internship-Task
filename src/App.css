@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#root > div {
+  width: 80%;
+  height: 80%;
+  align-items: center;
+  justify-content: center;
+}
